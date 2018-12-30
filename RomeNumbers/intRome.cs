@@ -51,5 +51,74 @@ namespace RomeNumbers
             return s.ToString();
         }
 
+        static public string toRome2(int a)
+        {
+            StringBuilder s = new StringBuilder();
+
+            if (a < 0 || a > 3999)
+                throw new ArgumentOutOfRangeException();
+
+            int ii = 0;
+
+            for (int i = 0; i < 4; i++, ii += 2)
+            {
+                int tmp = a / arabic[i];
+//
+//                if (1 <= tmp && tmp <= 3)
+//                    for (int j = 1; j <= tmp; j++)
+//                        s.Append(roman[ii]);
+//                else if (tmp == 4)
+//                    s.Append(roman[ii]).Append(roman[ii - 1]);
+//                else if (tmp == 5)
+//                    s.Append(roman[ii - 1]);
+//                else if (6 <= tmp && tmp <= 8)
+//                {
+//                    s.Append(roman[ii - 1]);
+//                    for (int j = 1; j <= tmp - 5; j++)
+//                        s.Append(roman[ii]);
+//                }
+//                else if (tmp == 9)
+//                    s.Append(roman[ii]).Append(roman[ii - 2]);
+//                else
+//                    s.Append("");
+
+                switch (tmp)
+                {
+                    case 1:
+                    case 2:
+                    case 3:
+                        for (int j = 1; j <= tmp; j++)
+                            s.Append(roman[ii]);
+                        break;
+                    case 4:
+                        s.Append(roman[ii]).Append(roman[ii - 1]);
+                        break;
+                    case 5:
+                        s.Append(roman[ii - 1]);
+                        break;
+                    case 6:
+                    case 7:
+                    case 8:
+                        s.Append(roman[ii - 1]);
+                        for (int j = 1; j <= tmp - 5; j++)
+                            s.Append(roman[ii]);
+                        break;
+                    case 9:
+                        s.Append(roman[ii]).Append(roman[ii - 2]);
+                        break;
+                    default:
+                        s.Append("");
+                        break;
+                }
+
+                a %= arabic[i];
+            }
+
+
+            return s.ToString();
+        }
+
     }
+
+
 }

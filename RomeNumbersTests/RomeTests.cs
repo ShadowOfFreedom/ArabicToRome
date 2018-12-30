@@ -35,7 +35,7 @@ namespace RomeNumbers.Tests
         [DataRow("MMMCMXCIX", 3999)]
         public void toRomeTest(string value1, int value2)
         {
-            Assert.AreEqual(value1, Rome.toRome(value2));
+            Assert.AreEqual(value1, Rome.toRome2(value2));
         }
     }
 }

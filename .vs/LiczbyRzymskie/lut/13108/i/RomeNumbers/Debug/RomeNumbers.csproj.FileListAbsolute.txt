@@ -1,5 +1,0 @@
-C:\Users\user\Documents\Programowanie\LiczbyRzymskie\.vs\LiczbyRzymskie\lut\0\b\RomeNumbers\bin\Debug\RomeNumbers.exe.config
-C:\Users\user\Documents\Programowanie\LiczbyRzymskie\.vs\LiczbyRzymskie\lut\0\b\RomeNumbers\bin\Debug\RomeNumbers.exe
-C:\Users\user\Documents\Programowanie\LiczbyRzymskie\.vs\LiczbyRzymskie\lut\0\i\RomeNumbers\Debug\RomeNumbers.csproj.CoreCompileInputs.cache
-C:\Users\user\Documents\Programowanie\LiczbyRzymskie\.vs\LiczbyRzymskie\lut\0\i\RomeNumbers\Debug\RomeNumbers.csproj.CopyComplete
-C:\Users\user\Documents\Programowanie\LiczbyRzymskie\.vs\LiczbyRzymskie\lut\0\i\RomeNumbers\Debug\RomeNumbers.exe
