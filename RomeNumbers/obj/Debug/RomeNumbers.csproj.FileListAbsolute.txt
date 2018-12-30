@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbers\bin\Debug\RomeNumbers.exe.config
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbers\bin\Debug\RomeNumbers.exe
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbers\bin\Debug\RomeNumbers.pdb
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbers\obj\Debug\RomeNumbers.csprojAssemblyReference.cache
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbers\obj\Debug\RomeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbers\obj\Debug\RomeNumbers.exe
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbers\obj\Debug\RomeNumbers.pdb

@@ -1,0 +1,8 @@
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\.vs\LiczbyRzymskie\lut\0\b\RomeNumbersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\.vs\LiczbyRzymskie\lut\0\b\RomeNumbersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\.vs\LiczbyRzymskie\lut\0\b\RomeNumbersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\.vs\LiczbyRzymskie\lut\0\b\RomeNumbersTests\bin\Debug\RomeNumbersTests.dll
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\.vs\LiczbyRzymskie\lut\0\i\RomeNumbersTests\Debug\RomeNumbersTests.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\.vs\LiczbyRzymskie\lut\0\i\RomeNumbersTests\Debug\RomeNumbersTests.csproj.CopyComplete
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\.vs\LiczbyRzymskie\lut\0\i\RomeNumbersTests\Debug\RomeNumbersTests.dll
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\.vs\LiczbyRzymskie\lut\0\i\RomeNumbersTests\Debug\RomeNumbersTests.csprojAssemblyReference.cache

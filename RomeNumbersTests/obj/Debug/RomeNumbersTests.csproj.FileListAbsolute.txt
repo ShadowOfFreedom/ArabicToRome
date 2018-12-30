@@ -1,0 +1,17 @@
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\bin\Debug\RomeNumbersTests.dll
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\bin\Debug\RomeNumbersTests.pdb
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\bin\Debug\RomeNumbers.exe
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\bin\Debug\RomeNumbers.pdb
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\bin\Debug\RomeNumbers.exe.config
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\obj\Debug\RomeNumbersTests.csprojAssemblyReference.cache
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\obj\Debug\RomeNumbersTests.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\obj\Debug\RomeNumbersTests.csproj.CopyComplete
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\obj\Debug\RomeNumbersTests.dll
+C:\Users\user\Documents\Programowanie\LiczbyRzymskie\RomeNumbersTests\obj\Debug\RomeNumbersTests.pdb
